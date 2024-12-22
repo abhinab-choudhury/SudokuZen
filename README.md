@@ -1,7 +1,12 @@
 # SudokuZen
-Sudoku Game
 
-- [ ] use backtraking
-- [ ] Feature 1 - generate Sodoku
-- [ ] Solve Sodoku
-- [ ] Stunning UI/UX
+## Installation
+
+1. Open termianl and Run:
+    ```bash
+    make
+    ```
+2. 
+   ```bash
+    ./main ./examples/easy.csv
+    ```    
